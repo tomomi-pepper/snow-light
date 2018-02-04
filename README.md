@@ -1,6 +1,6 @@
 # Snow Light
 
-[Pochiru](https://ssl.braveridge.com/store/html/products/detail.php?product_id=28)でボタンを押されたことを認識すると、[Sizuku 6X](https://ssl.braveridge.com/store/html/products/detail.php?product_id=33)のライトがつくプログラムです。
+[Pochiru](https://ssl.braveridge.com/store/html/products/detail.php?product_id=28)でボタンを押されたことを認識すると[Sizuku 6X](https://ssl.braveridge.com/store/html/products/detail.php?product_id=33)のライトがつき、PochiruでダブルクリックするとSizuku 6Xのライトが消えるプログラムです。
 
 
 # ScratchX
